@@ -1,0 +1,32 @@
+.header{
+    display:flex;
+   
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: bold;
+    .header__menu{
+        width: 100%;
+        text-align: center;
+
+        button{
+            border:none;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    }
+    .header__introduce{
+        width: 100%;
+        text-align: center;
+    
+    }
+    .header__logo{
+        width: 100%;;
+        text-align: center;
+        
+    }
+    .header__faq{
+        width: 100%;
+        text-align: center;
+      
+    }
+}

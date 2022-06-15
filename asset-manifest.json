@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-fec/static/css/main.254e2180.css",
-    "main.js": "/react-fec/static/js/main.7ebd6caf.js",
+    "main.css": "/react-fec/static/css/main.6f451eae.css",
+    "main.js": "/react-fec/static/js/main.e7a9b9cd.js",
     "static/js/787.e00b9e1a.chunk.js": "/react-fec/static/js/787.e00b9e1a.chunk.js",
+    "static/media/FEC_logo.png": "/react-fec/static/media/FEC_logo.1ea92fecfc985f8440d8.png",
     "index.html": "/react-fec/index.html",
-    "main.254e2180.css.map": "/react-fec/static/css/main.254e2180.css.map",
-    "main.7ebd6caf.js.map": "/react-fec/static/js/main.7ebd6caf.js.map",
+    "main.6f451eae.css.map": "/react-fec/static/css/main.6f451eae.css.map",
+    "main.e7a9b9cd.js.map": "/react-fec/static/js/main.e7a9b9cd.js.map",
     "787.e00b9e1a.chunk.js.map": "/react-fec/static/js/787.e00b9e1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.254e2180.css",
-    "static/js/main.7ebd6caf.js"
+    "static/css/main.6f451eae.css",
+    "static/js/main.e7a9b9cd.js"
   ]
 }

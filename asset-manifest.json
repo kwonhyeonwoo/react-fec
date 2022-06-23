@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-fec/static/css/main.fa0539da.css",
-    "main.js": "/react-fec/static/js/main.fc9671de.js",
+    "main.css": "/react-fec/static/css/main.b3c986c2.css",
+    "main.js": "/react-fec/static/js/main.1f3d85b4.js",
     "static/js/787.e00b9e1a.chunk.js": "/react-fec/static/js/787.e00b9e1a.chunk.js",
     "static/media/fec.jpg": "/react-fec/static/media/fec.4a5e40befb50f66240ab.jpg",
     "static/media/1.png": "/react-fec/static/media/1.0c09b66f6dbfcbc7f351.png",
@@ -13,12 +13,12 @@
     "static/media/jido.JPG": "/react-fec/static/media/jido.cb4712e2ab5e01f30388.JPG",
     "static/media/FEC_logo.png": "/react-fec/static/media/FEC_logo.1ea92fecfc985f8440d8.png",
     "index.html": "/react-fec/index.html",
-    "main.fa0539da.css.map": "/react-fec/static/css/main.fa0539da.css.map",
-    "main.fc9671de.js.map": "/react-fec/static/js/main.fc9671de.js.map",
+    "main.b3c986c2.css.map": "/react-fec/static/css/main.b3c986c2.css.map",
+    "main.1f3d85b4.js.map": "/react-fec/static/js/main.1f3d85b4.js.map",
     "787.e00b9e1a.chunk.js.map": "/react-fec/static/js/787.e00b9e1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa0539da.css",
-    "static/js/main.fc9671de.js"
+    "static/css/main.b3c986c2.css",
+    "static/js/main.1f3d85b4.js"
   ]
 }
